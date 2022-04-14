@@ -1,0 +1,115 @@
+
+
+button{
+    width:70px;
+    height:70px;
+    outline:none;
+    border:none;
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'impact';
+    font-size:20px;
+    margin:0 30px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+    cursor:pointer;
+    transition:all 0.2s ease-in-out;
+}
+
+button:hover{
+    transform: scale(1.01);
+}
+button:active{
+    background-color: cyan;
+}
+#pulsanti{
+    margin-top:40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#Titolo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    margin-left:400px;
+}
+
+#Case1{
+    width: 150px;
+    height:100px;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.4);
+    background-color: #9500ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left:300px;
+    margin-top:60;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Case2{
+    width: 150px;
+    height:100px;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.4);
+    background-color: #ff8c00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left:500px;
+    margin-top: -119px;;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#Text2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 127px;
+    margin-top: -160px;
+};
+
+#Text1{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+margin-top: 300px
+};
+
+.Case3{
+    width: 150px;
+    height:100px;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.4);
+    background-color: #009DFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left:500px;
+    margin-top: -119px;;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+#Frase{
+    width: 150px;
+    height:100px;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.4);
+    background-color: #009DFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 400px;
+    margin-top: 150px;;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
